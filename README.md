@@ -11,3 +11,7 @@
 ❌ history模式
 ❌ 嵌套路由
 
+
+
+基于`vue-cli`，启动预览请使用`yarn serve`/`npm run serve`。
+
